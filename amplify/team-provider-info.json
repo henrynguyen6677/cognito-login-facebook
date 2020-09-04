@@ -10,6 +10,13 @@
       "StackName": "amplify-cognitologinfacebook-dev-142201",
       "StackId": "arn:aws:cloudformation:ap-northeast-1:702703505483:stack/amplify-cognitologinfacebook-dev-142201/54df9ea0-ee7f-11ea-8c45-0a87e55ed34e",
       "AmplifyAppId": "d39cpptho3pnkk"
+    },
+    "categories": {
+      "auth": {
+        "cognitologinfacebook54394d8d": {
+          "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"2708299572831334\",\"client_secret\":\"bfeb87c5420748e42428801b9946b80c\"},{\"ProviderName\":\"Google\",\"client_id\":\"    71332879209-8rgpfvs7kuetd4csp7fdc463vq5sev79.apps.googleusercontent.com\",\"client_secret\":\"ioo53M4Fj0CS8YKCGL5yBhU5\"}]"
+        }
+      }
     }
   }
 }

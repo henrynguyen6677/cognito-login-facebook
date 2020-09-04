@@ -1,0 +1,11 @@
+{
+    "AppSyncApiName": "cognitologinfacebook",
+    "DynamoDBBillingMode": "PAY_PER_REQUEST",
+    "DynamoDBEnableServerSideEncryption": false,
+    "AuthCognitoUserPoolId": {
+        "Fn::GetAtt": [
+            "authcognitologinfacebook54394d8d",
+            "Outputs.UserPoolId"
+        ]
+    }
+}
