@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-cognitologinfacebook-dev-142201-authRole",
+      "UnauthRoleArn": "arn:aws:iam::702703505483:role/amplify-cognitologinfacebook-dev-142201-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::702703505483:role/amplify-cognitologinfacebook-dev-142201-authRole",
+      "Region": "ap-northeast-1",
+      "DeploymentBucketName": "amplify-cognitologinfacebook-dev-142201-deployment",
+      "UnauthRoleName": "amplify-cognitologinfacebook-dev-142201-unauthRole",
+      "StackName": "amplify-cognitologinfacebook-dev-142201",
+      "StackId": "arn:aws:cloudformation:ap-northeast-1:702703505483:stack/amplify-cognitologinfacebook-dev-142201/54df9ea0-ee7f-11ea-8c45-0a87e55ed34e",
+      "AmplifyAppId": "d39cpptho3pnkk"
+    }
+  }
+}
