@@ -11,7 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://nextjs.org">Next.js 2.0 !</a>
+          Welcome to <a href="https://nextjs.org">Next.js Deploy on Vercel !</a>
         </h1>
 
         <p className={styles.description}>
